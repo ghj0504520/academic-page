@@ -51,119 +51,132 @@ interests:
   - UAV Traffic Management
   - Reinforcement Learning
   - Intelligent Transportation
+  - Optimization
   - Networking (SDN, Mobile Core)
 
 education:
-  - area: PhD Computer Science (AI Focus)
-    institution: Stanford University
-    date_start: 2015-09-01
-    date_end: 2019-06-30
+  - area: Ph.D. Candidate Computer Science (Optimization Focus)
+    institution: National Yang Ming Chiao Tung University
+    date_start: 2023-09-01
+    date_end: ''
     summary: |
-      Thesis on _Scaling Laws for Neural Language Models_. Supervised by Prof. Andrew Ng. Published 5 papers in NeurIPS and ICML, with 2 best paper awards.
-    button:
-      text: 'Read Thesis'
-      url: 'https://example.com/thesis.pdf'
-  - area: MS Computer Science
-    institution: Carnegie Mellon University
-    date_start: 2013-09-01
-    date_end: 2015-05-31
+      Thesis on UAV traffic management and other optimization research. Supervised by Prof. Li-Hsing Yen. Published 1 paper in GLOBECOM2025.
+    #button:
+    #  text: 'Read Thesis'
+    #  url: 'https://example.com/thesis.pdf'
+  - area: M.S. Computer Science (Networking Focus)
+    institution: National Chiao Tung University
+    date_start: 2018-09-01
+    date_end: 2020-10-31
     summary: |
-      GPA: 4.0/4.0
+      GPA: 4.25/4.3
 
-      Specialized in machine learning and robotics.
-  - area: BS Computer Science
-    institution: MIT
-    date_start: 2009-09-01
-    date_end: 2013-05-31
+      Specialized in SDN.
+  - area: B.S.  Computer Science and Engineering
+    institution: National Sun Yat-sen University
+    date_start: 2014-09-01
+    date_end: 2018-06-31
     summary: |
-      GPA: 3.9/4.0
+      GPA: 4.17/4.3
 
-      Minored in Mathematics. President of AI Club.
+      Interested in network management.
 
 work:
-  - position: Senior AI Research Scientist
-    company_name: Meta AI
-    company_url: 'https://ai.meta.com/'
-    company_logo: ''
-    date_start: 2020-01-01
-    date_end: ''
+  - position: 5G core network engineer
+    company_name: Ataya
+    # company_url: 'https://ai.meta.com/'
+    # company_logo: ''
+    date_start: 2021-10-01
+    date_end: 2022-07-20
     summary: |2-
-      Leading research on multimodal AI systems. Contributed to Llama 2 and other open-source models. 50+ citations in 3 years.
-  - position: AI Research Intern
-    company_name: OpenAI
-    company_url: 'https://openai.com/'
-    company_logo: ''
-    date_start: 2019-06-01
-    date_end: 2019-12-31
+      Integrate the new function in the core network.
+  - position: research assistant
+    company_name: NYCU
+    # company_url: 'https://ai.meta.com/'
+    # company_logo: ''
+    date_start: 2021-07-01
+    date_end: 2022-09-30
+    summary: |2-
+      Survey security in the core network.
+  - position: Military Service at TPE Airport
+    company_name: Aviation Police Bureau
+    # company_url: 'https://openai.com/'
+    # company_logo: ''
+    date_start: 2020-12-21
+    date_end: 2021-06-21
     summary: |
-      Worked on GPT-3 scaling. Co-authored paper on prompt engineering.
+      Service in the Airport and start an interest in transportation.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
   - name: Technical Skills
     items:
-      - name: Python & PyTorch
-        description: ''
-        percent: 95
-        icon: code-bracket
-      - name: Machine Learning
-        description: ''
-        percent: 100
-        icon: chart-bar
-      - name: Cloud Computing (AWS/GCP)
+      - name: UTM
         description: ''
         percent: 85
+        icon: code-bracket
+      - name: Reinforcement Learning
+        description: ''
+        percent: 80
+        icon: chart-bar
+      - name: Networking (SDN/Mobile)
+        description: ''
+        percent: 90
         icon: cloud
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
     items:
-      - name: Hiking in the Rockies
+      - name: Mountain Climbing
         description: ''
         percent: 80
         icon: person-simple-walk
-      - name: Building Custom PCs
+      - name: Aircraft Spotting
         description: ''
         percent: 90
         icon: cpu-chip
-      - name: Sci-Fi Reading
+      - name: Traveling
         description: ''
         percent: 70
         icon: book-open
 
 languages:
-  - name: English
+  - name: Chinese
     percent: 100
-  - name: Spanish
-    percent: 50
+  - name: English
+    percent: 90
+  - name: Japanese
+    percent: 70
+  - name: Korean
+    percent: 40
 
 # Awards.
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
-  - title: Best Paper Award
-    url: https://neurips.cc/
-    date: '2022-12-01'
-    awarder: NeurIPS
+  - title: Student Best Paper Award
+    url: https://www.ieice.org/~icm/apnoms/2019/
+    date: '2019-09-18'
+    awarder: APNOMS
     icon: hero/trophy
     summary: |
-      Awarded for groundbreaking work on efficient training of large models.
-  - title: AI Innovation Grant
-    url: https://www.nsf.gov/
-    date: '2021-06-15'
-    awarder: National Science Foundation
-    icon: hero/currency-dollar
-    summary: |
-      $500,000 grant for research in ethical AI development.
-  - title: Outstanding PhD Thesis
-    url: https://www.stanford.edu/
-    date: '2019-06-30'
-    awarder: Stanford University
-    icon: hero/academic-cap
-    summary: |
-      Recognized for contributions to scaling laws in deep learning.
+      Awarded for well-presenting.
+  #- title: AI Innovation Grant
+  #  url: https://www.nsf.gov/
+  #  date: '2021-06-15'
+  #  awarder: National Science Foundation
+  #  icon: hero/currency-dollar
+  #  summary: |
+  #    $500,000 grant for research in ethical AI development.
+  #- title: Outstanding PhD Thesis
+  #  url: https://www.stanford.edu/
+  #  date: '2019-06-30'
+  #  awarder: Stanford University
+  #  icon: hero/academic-cap
+  #  summary: |
+  #    Recognized for contributions to scaling laws in deep learning.
 ---
 
 Alex Johnson is a Senior AI Research Scientist at Meta AI, where he leads groundbreaking work on large language models and multimodal systems. His research has been published in top conferences like NeurIPS and ICML, with over 10,000 citations. Alex is passionate about pushing the boundaries of AI while ensuring ethical development. Outside of work, he enjoys hiking in the Rockies, building custom PCs, and mentoring the next generation of AI talent.
