@@ -75,7 +75,7 @@ education:
   - area: B.S.  Computer Science and Engineering
     institution: National Sun Yat-sen University
     date_start: 2014-09-01
-    date_end: 2018-06-31
+    date_end: 2018-06-30
     summary: |
       GPA: 4.17/4.3
 
