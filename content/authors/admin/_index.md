@@ -115,7 +115,7 @@ skills:
       - name: UTM
         description: ''
         percent: 85
-        icon: code-bracket
+        icon: paper-airplane
       - name: Reinforcement Learning
         description: ''
         percent: 80
@@ -123,7 +123,7 @@ skills:
       - name: Networking (SDN/Mobile)
         description: ''
         percent: 90
-        icon: cloud
+        icon: globe-alt
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -135,11 +135,11 @@ skills:
       - name: Aircraft Spotting
         description: ''
         percent: 90
-        icon: cpu-chip
+        icon: paper-airplane
       - name: Traveling
         description: ''
         percent: 70
-        icon: book-open
+        icon: globe-asia-australia
 
 languages:
   - name: Chinese
