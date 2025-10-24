@@ -41,8 +41,8 @@ sections:
         Please reach out to collaborate 😃
     design:
       columns: '1'
-  - block: collection
-    id: papers
+  #- block: collection
+  #  id: papers
     content:
       title: Featured Publications
       filters:
@@ -54,7 +54,7 @@ sections:
       columns: 2
   - block: collection
     content:
-      title: Recent Publications
+      title: Publications
       text: ''
       filters:
         folders:
@@ -62,8 +62,8 @@ sections:
         exclude_featured: false
     design:
       view: citation
-  - block: collection
-    id: talks
+  #- block: collection
+  #  id: talks
     content:
       title: Recent & Upcoming Talks
       filters:
@@ -71,8 +71,8 @@ sections:
           - events
     design:
       view: card
-  - block: collection
-    id: news
+  #- block: collection
+  #  id: news
     content:
       title: Recent News
       subtitle: ''
