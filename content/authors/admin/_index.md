@@ -61,7 +61,9 @@ education:
     date_start: 2023-09-01
     date_end: ''
     summary: |
-      Work on the thesis of UAV traffic management and other optimization research. Supervised by Prof. Li-Hsing Yen and Co-Supervised by Prof. Ka-Io Wong. Published 1 paper in GLOBECOM2025.
+      Work on the thesis of UAV traffic management and other optimization research. Supervised by Prof. Li-Hsing Yen and Co-Supervised by Prof. Ka-Io Wong.
+
+      Published 1 paper in GLOBECOM2025.
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com/thesis.pdf'
@@ -71,6 +73,7 @@ education:
     date_end: 2020-10-31
     summary: |
       GPA: 4.25/4.3
+    
       Thesis: P4-TINS: P4-driven Traffic Isolation for Network Slicing with Flow-based Bandwidth Guarantee and Management
       Specialized in SDN, P4, and quality of service.
   - area: B.S.  Computer Science and Engineering
