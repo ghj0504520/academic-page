@@ -167,7 +167,7 @@ languages:
 awards:
   - title: TOEIC
     #url: https://www.ieice.org/~icm/apnoms/2019/
-    date: '2021'
+    date: '2021-09-30'
     #awarder: APNOMS
     icon: hero/flag
     summary: |
