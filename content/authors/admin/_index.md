@@ -36,7 +36,7 @@ profiles:
   - icon: at-symbol
     url: 'mailto:ghj0504520.cywjjy@gmail.com'
     label: E-mail Me
-  - icon: instagram
+  - icon: brands/instagram
     url: https://www.instagram.com/kuma_yan.50403
   - icon: brands/github
     url: https://github.com/ghj0504520
