@@ -1,7 +1,6 @@
 ---
 # Display name
-title: YANWEI CHEN (YAN)
-{{< icon name="kumayan" >}}
+title: YANWEI CHEN (YAN) {{< icon name="kumayan" >}}
 
 # Name pronunciation (optional)
 name_pronunciation: ''
