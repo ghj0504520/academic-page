@@ -57,7 +57,7 @@ interests:
 
 education:
   - area: Ph.D. Candidate Computer Science (Optimization Focus)
-    institution: National Yang Ming Chiao Tung University
+    institution: National Yang Ming Chiao Tung University (NYCU) @TW
     date_start: 2023-09-01
     date_end: ''
     summary: |
@@ -66,7 +66,7 @@ education:
     #  text: 'Read Thesis'
     #  url: 'https://example.com/thesis.pdf'
   - area: M.S. Computer Science (Networking Focus)
-    institution: National Chiao Tung University
+    institution: National Chiao Tung University (NCTU) @TW
     date_start: 2018-09-01
     date_end: 2020-10-31
     summary: |
@@ -74,7 +74,7 @@ education:
 
       Specialized in SDN, P4, and quality of service.
   - area: B.S.  Computer Science and Engineering
-    institution: National Sun Yat-sen University
+    institution: National Sun Yat-sen University (NSYSU) @TW
     date_start: 2014-09-01
     date_end: 2018-06-30
     summary: |
@@ -84,7 +84,7 @@ education:
 
 work:
   - position: 5G Core Network Engineer
-    company_name: Ataya
+    company_name: Ataya @TW
     # company_url: 'https://ai.meta.com/'
     # company_logo: ''
     date_start: 2021-10-01
@@ -92,7 +92,7 @@ work:
     summary: |2-
       Integrate the new function into the 5G core network and improve user plane performance.
   - position: Research Assistant
-    company_name: NYCU
+    company_name: NYCU @TW
     # company_url: 'https://ai.meta.com/'
     # company_logo: ''
     date_start: 2021-07-01
