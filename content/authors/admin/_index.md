@@ -120,7 +120,7 @@ skills:
       - name: Reinforcement Learning
         description: ''
         percent: 80
-        icon: adjustments-horizonta
+        icon: adjustments-horizontal
       - name: Networking (SDN/Mobile)
         description: ''
         percent: 90
