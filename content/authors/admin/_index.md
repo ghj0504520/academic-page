@@ -111,6 +111,15 @@ work:
     date_end: 2021-06-21
     summary: |
       Service in the Airport sparked a strong interest in transportation.
+  - position: Intern Software Engineer
+    icon: paper-airplane
+    company_name: ONF @CA
+    # company_url: 'https://ai.meta.com/'
+    # company_logo: ''
+    date_start: 2018-10-15
+    date_end: 2018-10-26
+    summary: |2-
+      Learning about ONOS with PI subsystem and P4 Runtime driver.
   - position: Director (2017) and Network Manager
     company_name: Campus Dorm-net Promotion Association (CDPA), NSYSU
     # company_url: 'https://openai.com/'
