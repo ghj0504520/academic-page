@@ -74,7 +74,7 @@ education:
     summary: |
       GPA: 4.25/4.3
     
-      Thesis: P4-TINS: P4-driven Traffic Isolation for Network Slicing with Flow-based Bandwidth Guarantee and Management
+      Thesis: P4-TINS: P4-driven Traffic Isolation for Network Slicing with Flow-based Bandwidth Guarantee and Management (Supervised by Prof. Chien-Chao Tseng, and Co-Supervised by Prof. Chi-Yu Li in CS)
     
       Specialized in SDN, P4, and quality of service. Managed P4 Switches and Servers with several P4 scenarios. ONOS Application Usage: OpenFlow SDN-IP, OpenFlow Virtual-Router, OpenFlow SegmentRouting, ONOS Basic.p4, ONOS Fabric.p4, P4 SegmentRouting.
   - area: B.S.  Computer Science and Engineering
@@ -151,11 +151,11 @@ skills:
         percent: 75
         icon: adjustments-horizontal
       - name: ITS
-        description: ''
+        description: 'Rolling horizon related issues in intelligent transportation system'
         percent: 75
         icon: truck
       - name: Optimization/Gaming Theory
-        description: ''
+        description: 'Auction mechanism'
         percent: 80
         icon: variable
       - name: SDN/Mobile networking
