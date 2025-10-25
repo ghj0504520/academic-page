@@ -128,7 +128,13 @@ work:
     date_end: 2018-06-30
     summary: |
       Maintain and manage the whole dormitory network in NSYSU.
-
+event:
+  - name: Technical Skills
+    items:
+      - name: UTM
+        description: ''
+        percent: 85
+        icon: paper-airplane
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
 skills:
