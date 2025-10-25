@@ -194,7 +194,7 @@ awards:
     #awarder: APNOMS
     icon: hero/flag
     summary: |
-      Acceptance
+      Acceptance✈️✈️✈️
   - title: JLPT
     #url: https://www.ieice.org/~icm/apnoms/2019/
     date: '2021-12-30'
