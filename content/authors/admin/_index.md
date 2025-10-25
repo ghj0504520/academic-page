@@ -76,7 +76,7 @@ education:
     
       Thesis: P4-TINS: P4-driven Traffic Isolation for Network Slicing with Flow-based Bandwidth Guarantee and Management
     
-      Specialized in SDN, P4, and quality of service. Managed P4 Switches and Servers with several P4 scenarios. - ONOS Application Usage: OpenFlow SDN-IP, OpenFlow Virtual-Router, OpenFlow SegmentRouting, ONOS Basic.p4, ONOS Fabric.p4, P4 SegmentRouting.
+      Specialized in SDN, P4, and quality of service. Managed P4 Switches and Servers with several P4 scenarios. ONOS Application Usage: OpenFlow SDN-IP, OpenFlow Virtual-Router, OpenFlow SegmentRouting, ONOS Basic.p4, ONOS Fabric.p4, P4 SegmentRouting.
   - area: B.S.  Computer Science and Engineering
     institution: National Sun Yat-sen University (NSYSU) @TW
     date_start: 2014-09-01
@@ -158,14 +158,15 @@ skills:
         description: ''
         percent: 80
         icon: variable
-      - name: Networking
-        description: 'Including Switch Management (Legacy/OpenFlow/P4), L2 Vlan, Linux System Usage, C/C++ Socket, Docker, DHCP, AAA'
-        percent: 90
-        icon: globe-alt
       - name: SDN/Mobile networking
         description: 'Including Mininet, ONOS (JAVA), OpenFlow, P4, UPF, SMF, PFCP, GTP-u'
         percent: 90
         icon: globe-alt
+      - name: Networking
+        description: 'Including Switch Management (Legacy/OpenFlow/P4), L2 Vlan, Linux System Usage, C/C++ Socket, Docker, DHCP, AAA'
+        percent: 90
+        icon: globe-alt
+      
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
