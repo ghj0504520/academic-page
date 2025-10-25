@@ -36,6 +36,7 @@ header:
     show_theme_chooser: true
     logo:
       text: 'YANWEI CHEN (YAN)'
+      filename: "kumayan.png"
 
 # Site footer
 footer:
