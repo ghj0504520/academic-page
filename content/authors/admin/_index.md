@@ -167,9 +167,9 @@ languages:
 awards:
   - title: TOEIC
     #url: https://www.ieice.org/~icm/apnoms/2019/
-    date: '2021-09'
+    date: '2021'
     #awarder: APNOMS
-    #icon: hero/trophy
+    icon: hero/flag
     summary: |
       900
   - title: Student Best Paper Award
