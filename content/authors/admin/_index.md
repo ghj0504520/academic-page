@@ -165,6 +165,13 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: TOEIC
+    #url: https://www.ieice.org/~icm/apnoms/2019/
+    date: '2021-09'
+    #awarder: APNOMS
+    #icon: hero/trophy
+    summary: |
+      900
   - title: Student Best Paper Award
     url: https://www.ieice.org/~icm/apnoms/2019/
     date: '2019-09-18'
