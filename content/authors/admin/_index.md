@@ -87,6 +87,14 @@ education:
       Interested in network management.
 
 work:
+  - position: Special Research Student
+    company_name: NAIST @JP
+    # company_url: 'https://ai.meta.com/'
+    # company_logo: ''
+    date_start: 2025-10-01
+    date_end: 2025-12-31
+    summary: |2-
+      Learn about traffic data analysis and investigate RL for adjusting the rolling horizon.
   - position: 5G Core Network Software Engineer
     company_name: Ataya @TW
     icon: adjustments-horizontal
@@ -113,14 +121,13 @@ work:
     summary: |
       Service in the Airport sparked a strong interest in transportation.
   - position: Intern Software Engineer
-    icon: paper-airplane
     company_name: ONF @CA
     # company_url: 'https://ai.meta.com/'
     # company_logo: ''
     date_start: 2018-10-15
     date_end: 2018-10-26
     summary: |2-
-      Learning about ONOS with PI subsystem and P4 Runtime driver.
+      Learn about ONOS with PI subsystem and P4 Runtime driver.
   - position: Director (2017) and Network Manager
     company_name: Campus Dorm-net Promotion Association (CDPA), NSYSU
     # company_url: 'https://openai.com/'
