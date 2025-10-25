@@ -161,6 +161,10 @@ skills:
         description: ''
         percent: 70
         icon: globe-asia-australia
+      - name: Biking/Jogging
+        description: ''
+        percent: 70
+        icon: sun
 
 languages:
   - name: Chinese
