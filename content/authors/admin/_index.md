@@ -165,13 +165,35 @@ languages:
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
 awards:
+  - title: TOEFL iBT
+    #url: https://www.ieice.org/~icm/apnoms/2019/
+    date: '2024-08-30'
+    #awarder: APNOMS
+    icon: hero/flag
+    summary: |
+      97/120
+  - title: JLPT
+    #url: https://www.ieice.org/~icm/apnoms/2019/
+    date: '2021-12-30'
+    #awarder: APNOMS
+    icon: hero/flag
+    summary: |
+      N2
   - title: TOEIC
     #url: https://www.ieice.org/~icm/apnoms/2019/
     date: '2021-09-30'
     #awarder: APNOMS
     icon: hero/flag
     summary: |
-      900
+      900/990
+  - title: 初級救護技術員EMT-1
+    #url: https://www.ieice.org/~icm/apnoms/2019/
+    date_start: 2020-12-01
+    date_end: ''
+    #awarder: APNOMS
+    icon: hero/flag
+    summary: |
+      🚑
   - title: Student Best Paper Award
     url: https://www.ieice.org/~icm/apnoms/2019/
     date: '2019-09-18'
