@@ -94,7 +94,7 @@ work:
     date_start: 2025-10-01
     date_end: 2025-12-31
     summary: |2-
-      Learn about traffic data analysis and investigate RL for adjusting the rolling horizon.
+      NYCU MOU visiting, learn about traffic data analysis, and investigate RL for adjusting the rolling horizon.
   - position: 5G Core Network Software Engineer
     company_name: Ataya @TW
     icon: adjustments-horizontal
@@ -127,7 +127,8 @@ work:
     date_start: 2018-10-15
     date_end: 2018-10-26
     summary: |2-
-      Learn about ONOS with PI subsystem and P4 Runtime driver.
+      ONF NCTU P4 Brigade Day,
+      learn about ONOS with PI subsystem and P4 Runtime driver.
   - position: Director (2017) and Network Manager
     company_name: Campus Dorm-net Promotion Association (CDPA), NSYSU
     # company_url: 'https://openai.com/'
