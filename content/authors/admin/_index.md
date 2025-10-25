@@ -131,7 +131,7 @@ skills:
       - name: Mountain Climbing
         description: ''
         percent: 80
-        icon: 🏔
+        icon: person-simple-walk
       - name: Aircraft Spotting
         description: ''
         percent: 90
@@ -155,7 +155,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-Awards/Licence:
+awards:
   - title: Student Best Paper Award
     url: https://www.ieice.org/~icm/apnoms/2019/
     date: '2019-09-18'
