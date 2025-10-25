@@ -1,6 +1,6 @@
 ---
 # Display name
-title: YANWEI CHEN
+title: YANWEI CHEN (YAN)
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -192,7 +192,11 @@ I'm Yan-Wei Chen, and you can also call me "Yan". I come from Tainan, Taiwan.
 I am a Ph.d. candidate majoring in CS at NYCU, Taiwan.
 I hold a B.S. degree in CS from NSYSU, Taiwan, and a M.S. degree in CS from NCTU, Taiwan.
 My research interests are UAV/UTM, resource management, optimization/gaming theory, transportation, and networking.
+I am also interested in learning Japanese and Korean.
 
 我是陳彥瑋,大學跟研究所讀的是資工,台南人,目前在新竹唸Phd,研究資源管理、最佳化、運輸及網路。
 因為對民航的興趣，開始我接觸運輸相關領域，並參加過2022民航特考。
 也因為資工的背景，從而轉往研究無人機(UAV)、資源管理、最佳化及賽局、運輸及網路。
+我的興趣之一是學習日語及韓語。
+
+初めまして よろしくお願いします。 안녕하십니까,만나서 반갑습니다.
