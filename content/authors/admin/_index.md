@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: kuma_yan
+  icon: 🐻
 
 # Is this the primary user of the site?
 superuser: true
