@@ -61,7 +61,7 @@ education:
     date_start: 2023-09-01
     date_end: ''
     summary: |
-      Thesis on UAV traffic management and other optimization research. Supervised by Prof. Li-Hsing Yen and Co-Supervised by Prof. Ka-Io Wong. Published 1 paper in GLOBECOM2025.
+      Work on the thesis of UAV traffic management and other optimization research. Supervised by Prof. Li-Hsing Yen and Co-Supervised by Prof. Ka-Io Wong. Published 1 paper in GLOBECOM2025.
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com/thesis.pdf'
@@ -71,7 +71,7 @@ education:
     date_end: 2020-10-31
     summary: |
       GPA: 4.25/4.3
-
+      Thesis: P4-TINS: P4-driven Traffic Isolation for Network Slicing with Flow-based Bandwidth Guarantee and Management
       Specialized in SDN, P4, and quality of service.
   - area: B.S.  Computer Science and Engineering
     institution: National Sun Yat-sen University (NSYSU) @TW
@@ -83,7 +83,7 @@ education:
       Interested in network management.
 
 work:
-  - position: 5G Core Network Engineer
+  - position: 5G Core Network Software Engineer
     company_name: Ataya @TW
     # company_url: 'https://ai.meta.com/'
     # company_logo: ''
@@ -91,7 +91,7 @@ work:
     date_end: 2022-07-20
     summary: |2-
       Integrate the new function into the 5G core network and improve user plane performance.
-  - position: Research Assistant
+  - position: Project Research Assistant
     company_name: NYCU @TW
     # company_url: 'https://ai.meta.com/'
     # company_logo: ''
@@ -107,6 +107,14 @@ work:
     date_end: 2021-06-21
     summary: |
       Service in the Airport sparked a strong interest in transportation.
+  - position: Director (2017) and Network Manager
+    company_name: Campus Dorm-net Promotion Association (CDPA), NSYSU
+    # company_url: 'https://openai.com/'
+    # company_logo: ''
+    date_start: 2016-02-01
+    date_end: 2018-06-30
+    summary: |
+      Maintain and manage the whole dormitory network in NSYSU.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -172,6 +180,13 @@ awards:
     icon: hero/flag
     summary: |
       97/120
+  - title: 公務人員特種考試民航人員考試 Civil Service Special Examination for Civil Aviation Personnel
+    url: https://www.caa.gov.tw/
+    date: '2022-12-30'
+    #awarder: APNOMS
+    icon: hero/flag
+    summary: |
+      Acceptance
   - title: JLPT
     #url: https://www.ieice.org/~icm/apnoms/2019/
     date: '2021-12-30'
