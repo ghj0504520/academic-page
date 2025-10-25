@@ -75,6 +75,7 @@ education:
       GPA: 4.25/4.3
     
       Thesis: P4-TINS: P4-driven Traffic Isolation for Network Slicing with Flow-based Bandwidth Guarantee and Management
+    
       Specialized in SDN, P4, and quality of service.
   - area: B.S.  Computer Science and Engineering
     institution: National Sun Yat-sen University (NSYSU) @TW
