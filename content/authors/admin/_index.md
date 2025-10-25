@@ -145,7 +145,7 @@ skills:
       - name: UTM
         description: 'UAV traffic management complying with FAA and EUROCONTROL, including civil aviation'
         percent: 85
-        icon: "custom/kuma_"
+        icon: assets/media/icons/custom/kuma_yan
       - name: Reinforcement Learning
         description: 'From single agent to MARL/constrained/imitation and python/pytorch usage'
         percent: 75
