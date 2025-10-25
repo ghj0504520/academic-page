@@ -60,7 +60,7 @@ education:
     date_start: 2023-09-01
     date_end: ''
     summary: |
-      Thesis on UAV traffic management and other optimization research. Supervised by Prof. Li-Hsing Yen. Published 1 paper in GLOBECOM2025.
+      Thesis on UAV traffic management and other optimization research. Supervised by Prof. Li-Hsing Yen and Co-Supervised by Prof. Ka-Io Wong. Published 1 paper in GLOBECOM2025.
     #button:
     #  text: 'Read Thesis'
     #  url: 'https://example.com/thesis.pdf'
@@ -71,7 +71,7 @@ education:
     summary: |
       GPA: 4.25/4.3
 
-      Specialized in SDN.
+      Specialized in SDN, P4, and quality of service.
   - area: B.S.  Computer Science and Engineering
     institution: National Sun Yat-sen University
     date_start: 2014-09-01
@@ -82,30 +82,30 @@ education:
       Interested in network management.
 
 work:
-  - position: 5G core network engineer
+  - position: 5G Core Network Engineer
     company_name: Ataya
     # company_url: 'https://ai.meta.com/'
     # company_logo: ''
     date_start: 2021-10-01
     date_end: 2022-07-20
     summary: |2-
-      Integrate the new function in the core network.
-  - position: research assistant
+      Integrate the new function into the 5G core network and improve user plane performance.
+  - position: Research Assistant
     company_name: NYCU
     # company_url: 'https://ai.meta.com/'
     # company_logo: ''
     date_start: 2021-07-01
     date_end: 2022-09-30
     summary: |2-
-      Survey security in the core network.
-  - position: Military Service at TPE Airport
+      Survey and implement security mechanisms in the core network.
+  - position: Military Service at TPE Airport✈️
     company_name: Aviation Police Bureau
     # company_url: 'https://openai.com/'
     # company_logo: ''
     date_start: 2020-12-21
     date_end: 2021-06-21
     summary: |
-      Service in the Airport and start an interest in transportation.
+      Service in the Airport sparked a strong interest in transportation.
 
 # Skills
 # Add your own SVG icons to `assets/media/icons/`
@@ -131,7 +131,7 @@ skills:
       - name: Mountain Climbing
         description: ''
         percent: 80
-        icon: person-simple-walk
+        icon: 🏔
       - name: Aircraft Spotting
         description: ''
         percent: 90
@@ -155,7 +155,7 @@ languages:
 #   Add/remove as many awards below as you like.
 #   Only `title`, `awarder`, and `date` are required.
 #   Begin multi-line `summary` with YAML's `|` or `|2-` multi-line prefix and indent 2 spaces below.
-awards:
+Awards/Licence:
   - title: Student Best Paper Award
     url: https://www.ieice.org/~icm/apnoms/2019/
     date: '2019-09-18'
