@@ -89,6 +89,7 @@ education:
 work:
   - position: 5G Core Network Software Engineer
     company_name: Ataya @TW
+    icon: adjustments-horizontal
     # company_url: 'https://ai.meta.com/'
     # company_logo: ''
     date_start: 2021-10-01
