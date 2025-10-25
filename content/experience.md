@@ -18,6 +18,10 @@ sections:
       date_format: 'January 2006'
       # Education or Experience section first?
       is_education_first: false
+  - block: resume-experience
+    content:
+      title: Events/Visits
+      username: admin
   - block: resume-skills
     content:
       title: Skills & Hobbies
@@ -27,10 +31,6 @@ sections:
   - block: resume-awards
     content:
       title: Awards/Licences/Certifications
-      username: admin
-  - block: resume-event
-    content:
-      title: Events/Visits
       username: admin
   - block: resume-languages
     content:
