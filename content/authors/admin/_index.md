@@ -48,9 +48,10 @@ profiles:
   #  url: https://orcid.org/0000-0002-1825-0097
 
 interests:
-  - UAV Traffic Management
+  - UAV Traffic Management (UTM)
   - Reinforcement Learning
   - Intelligent Transportation
+  - Gaming Theory
   - Optimization
   - Networking (SDN, Mobile Core)
 
@@ -119,11 +120,19 @@ skills:
       - name: Reinforcement Learning
         description: ''
         percent: 80
-        icon: chart-bar
+        icon: adjustments-horizonta
       - name: Networking (SDN/Mobile)
         description: ''
         percent: 90
         icon: globe-alt
+      - name: ITS
+        description: ''
+        percent: 75
+        icon: truck
+      - name: Optimization/Gaming Theory
+        description: ''
+        percent: 80
+        icon: variable
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -179,4 +188,11 @@ awards:
   #    Recognized for contributions to scaling laws in deep learning.
 ---
 
-Alex Johnson.
+I'm Yan-Wei Chen, and you can also call me "Yan". I come from Tainan, Taiwan.
+I am a Ph.d. candidate majoring in CS at NYCU, Taiwan.
+I hold a B.S. degree in CS from NSYSU, Taiwan, and a M.S. degree in CS from NCTU, Taiwan.
+My research interests are UAV/UTM, resource management, optimization/gaming theory, transportation, and networking.
+
+我是陳彥瑋,大學跟研究所讀的是資工,台南人,目前在新竹唸Phd,研究資源管理、最佳化、運輸及網路。
+因為對民航的興趣，開始我接觸運輸相關領域，並參加過2022民航特考。
+也因為資工的背景，從而轉往研究無人機(UAV)、資源管理、最佳化及賽局、運輸及網路。
