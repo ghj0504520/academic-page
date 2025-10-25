@@ -28,6 +28,10 @@ sections:
     content:
       title: Awards/Licences/Certifications
       username: admin
+  - block: resume-event
+    content:
+      title: Events/Visits
+      username: admin
   - block: resume-languages
     content:
       title: Languages
