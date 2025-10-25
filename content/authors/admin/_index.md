@@ -61,7 +61,7 @@ education:
     date_start: 2023-09-01
     date_end: ''
     summary: |
-      Work on the thesis of UAV traffic management and other optimization research. Supervised by Prof. Li-Hsing Yen and Co-Supervised by Prof. Ka-Io Wong.
+      Work on the thesis of UAV traffic management and other optimization research. Supervised by Prof. Li-Hsing Yen in CS and Co-Supervised by Prof. Ka-Io Wong in TLM.
 
       Published 1 paper in GLOBECOM2025.
     #button:
