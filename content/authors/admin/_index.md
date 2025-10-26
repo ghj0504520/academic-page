@@ -14,7 +14,7 @@ pronouns: he/him
 
 # Status emoji
 status:
-  icon: icon.png
+  icon: "icon.png"
 
 # Is this the primary user of the site?
 superuser: true
