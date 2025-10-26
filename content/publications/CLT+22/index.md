@@ -26,8 +26,8 @@ publishDate: '2022-03-14T00:00:00Z'
 publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *IEEE Transactions on Network and Service Management*
-publication_short: In *IEEE Trans. Netw. Serv. Manag. (TNSM)*
+publication: *IEEE Transactions on Network and Service Management*
+publication_short: *IEEE Trans. Netw. Serv. Manag. (TNSM)*
 
 abstract: Network slicing is an essential technology for 5G mobile networks. It partitions network resource logically into multiple isolated slices, each of which can satisfy a suite of network requirements for one specific service. However, it cannot be fulfilled by the current SDN (Software-Defined Networks), since the conventional SDN data-plane technology, OpenFlow, is not flexible enough to offer fine-grained network resource control or queue/packet scheduling. It leads to many research studies developing corresponding solutions on programmable switches. In this work, we focus on the support of the bandwidth guarantee and management for network slices. Although several studies with the similar goal have been proposed, they do not consider interference among different flow types or use the built-in meter for easy deployment on COTS (Commercial Off-The-Shelf) P4 switches. To this end, we first conduct a case study to examine the interference cases. We then propose a solution, designated as P4-TINS (P4-driven Traffic Isolation for Network Slicing), to resolve the interference by isolating different types of traffic flows in priority queues and set the P4 switch’s bucket size based on the time granularity of its bandwidth management operation. It cannot only ensure the guaranteed bandwidth for each slice but also enable coexistent slices to fairly share residual bandwidth. We have confirmed its effectiveness experimentally based on our prototype over an ONOS (Open Network Operating System) controller and a COTS P4 switch.
 
