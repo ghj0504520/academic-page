@@ -6,47 +6,51 @@ title: 'An example conference paper'
 # and it will be replaced with their full name and linked to their profile.
 authors:
   - admin
-  - Robert Ford
+  - Chi-Yu Li
+  - Chien-Chao Tseng
+  - Min-Zhi Hu
 
 # Author notes (optional)
 author_notes:
   - 'Equal contribution'
   - 'Equal contribution'
 
-date: '2013-07-01T00:00:00Z'
+date: '2022-09-01T00:00:00Z'
 
 # Schedule page publish date (NOT publication's date).
-publishDate: '2017-01-01T00:00:00Z'
+publishDate: '2022-03-14T00:00:00Z'
 
 # Publication type.
 # Accepts a single type but formatted as a YAML list (for Hugo requirements).
 # Enter a publication type from the CSL standard.
-publication_types: ['paper-conference']
+publication_types: ['article-journal']
 
 # Publication name and optional abbreviated publication name.
-publication: In *Hugo Blox Builder Conference*
-publication_short: In *ICW*
+publication: In *IEEE Transactions on Network and Service Management*
+publication_short: In *IEEE Trans. Netw. Serv. Manag. (TNSM)*
 
-abstract: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum. Sed ac faucibus dolor, scelerisque sollicitudin nisi. Cras purus urna, suscipit quis sapien eu, pulvinar tempor diam. Quisque risus orci, mollis id ante sit amet, gravida egestas nisl. Sed ac tempus magna. Proin in dui enim. Donec condimentum, sem id dapibus fringilla, tellus enim condimentum arcu, nec volutpat est felis vel metus. Vestibulum sit amet erat at nulla eleifend gravida.
+abstract: Network slicing is an essential technology for 5G mobile networks. It partitions network resource logically into multiple isolated slices, each of which can satisfy a suite of network requirements for one specific service. However, it cannot be fulfilled by the current SDN (Software-Defined Networks), since the conventional SDN data-plane technology, OpenFlow, is not flexible enough to offer fine-grained network resource control or queue/packet scheduling. It leads to many research studies developing corresponding solutions on programmable switches. In this work, we focus on the support of the bandwidth guarantee and management for network slices. Although several studies with the similar goal have been proposed, they do not consider interference among different flow types or use the built-in meter for easy deployment on COTS (Commercial Off-The-Shelf) P4 switches. To this end, we first conduct a case study to examine the interference cases. We then propose a solution, designated as P4-TINS (P4-driven Traffic Isolation for Network Slicing), to resolve the interference by isolating different types of traffic flows in priority queues and set the P4 switch’s bucket size based on the time granularity of its bandwidth management operation. It cannot only ensure the guaranteed bandwidth for each slice but also enable coexistent slices to fairly share residual bandwidth. We have confirmed its effectiveness experimentally based on our prototype over an ONOS (Open Network Operating System) controller and a COTS P4 switch.
 
 # Summary. An optional shortened abstract.
-summary: Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis posuere tellus ac convallis placerat. Proin tincidunt magna sed ex sollicitudin condimentum.
+summary: Network slicing is an essential technology for 5G mobile networks. It partitions network resource logically into multiple isolated slices, each of which can satisfy a suite of network requirements for one specific service. However, it cannot be fulfilled by the current SDN. We then propose a solution, designated as P4-TINS (P4-driven Traffic Isolation for Network Slicing).
 
 tags:
-  - Large Language Models
+  - SDN
+  - Networking
 
 # Display this page in the Featured widget?
-featured: true
+featured: false
 
 # Standard identifiers for auto-linking
 hugoblox:
   ids:
-    doi: 10.5555/123456
+    doi: 10.1109/TNSM.2022.3159232
 
 # Custom links
 links:
   - type: pdf
-    url: ""
+    url: CLT+TNSM22.pdf
+  <!--
   - type: code
     url: https://github.com/HugoBlox/hugo-blox-builder
   - type: dataset
@@ -57,7 +61,8 @@ links:
     url: https://github.com/HugoBlox/hugo-blox-builder
   - type: video
     url: https://youtube.com
-
+  -->
+<!--
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
 image:
@@ -79,8 +84,9 @@ projects:
 #   E.g. `slides: "example"` references `content/slides/example/index.md`.
 #   Otherwise, set `slides: ""`.
 slides: ""
+-->
 ---
-
+<!--
 > [!NOTE]
 > Click the _Cite_ button above to demo the feature to enable visitors to import publication metadata into their reference management software.
 
@@ -88,3 +94,4 @@ slides: ""
 > Create your slides in Markdown - click the _Slides_ button to check out the example.
 
 Add the publication's **full text** or **supplementary notes** here. You can use rich formatting such as including [code, math, and images](https://docs.hugoblox.com/content/writing-markdown-latex/).
+-->
