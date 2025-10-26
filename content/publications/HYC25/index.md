@@ -19,7 +19,7 @@ publication_types: ["paper-conference"]
 
 # Publication name and optional abbreviated publication name.
 publication: In *2025 International Conference on Information Networking*
-publication_short: In *ICOIN 2024*
+publication_short: In *ICOIN 2025*
 
 abstract: Unmanned aerial vehicles (UAVs) have been used to provide wireless access service to a specific area. However, the service is subject to the limited energy capacity of UAVs. One possible treatment is to arrange a serving/charging schedule for UAVs that balances the serving and charging activities to maximize the service coverage. In this study, we seek a decentralized approach where each UAV autonomously decides its action based on partial observation of the environment. Prior works either demanded complete information, which may not be feasible, or performed worse than those exploiting complete information. This paper proposes a deep reinforcement learning approach empowered by the advantage actor-critic (A2C) algorithm and long short-term memory technique (LSTM). This approach is not sensitive to the number of serving UAVs. Simulation results show that the proposed approach generally achieved higher coverage ratios compared to the counterparts.
 
