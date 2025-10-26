@@ -8,7 +8,7 @@ tags:
   - UAV
   - UTM
 ---
-![screen reader text](icon.jpg "caption")
+![screen reader text](/assets/media/icon.png "caption")
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.
 
 <!--more-->
