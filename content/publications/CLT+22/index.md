@@ -1,5 +1,5 @@
 ---
-title: 'An example conference paper'
+title: 'P4-TINS: P4-Driven Traffic Isolation for Network Slicing With Bandwidth Guarantee and Management'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
