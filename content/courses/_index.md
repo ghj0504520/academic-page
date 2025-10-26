@@ -1,6 +1,6 @@
 ---
-title: Courses
-summary: My courses
+title: Lectures
+summary: My lectures
 type: landing
 
 cascade:
