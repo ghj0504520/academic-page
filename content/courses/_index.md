@@ -14,7 +14,7 @@ sections:
   - block: collection
     id: courses
     content:
-      title: Courses
+      title: Lectures
       filters:
         tag: Course
         kinds:
