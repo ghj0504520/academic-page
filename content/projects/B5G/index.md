@@ -1,8 +1,8 @@
 ---
 title: Beyond 5G
 date: 2023-07-01
-links:
-<!--  - type: site
+<!--links:
+  - type: site
     url: https://github.com/pytorch/pytorch-->
 tags:
   - Mobile
