@@ -37,7 +37,7 @@ featured: false
 
 hugoblox:
   ids:
-    doi: 10.1109/TNSM.2022.3159232
+    doi: 10.23919/APNOMS.2019.8892909
 
 links:
   - type: pdf
