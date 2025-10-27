@@ -13,6 +13,7 @@ sections:
     content:
       title: Selected Research
       text: I enjoy surveying and learning things. Here is a selection of research and projects that I have worked on.
+      count: 0
       filters:
         folders:
           - projects
