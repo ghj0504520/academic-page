@@ -12,4 +12,6 @@ tags:
 
 Assist in leading research focusing on preparing AI-enabled functions for beyond 5G.
 
+[A lecture for 5G introduction](https://drive.google.com/file/d/1VykM8krHhlOrQOSNrCyRVMFyezcuiJCa/view?usp=drive_link)
+
 <!--more-->
