@@ -4,7 +4,7 @@ authors:
 - admin
 - Li-Hsing Yen
 - Wei-Cheng Wang
-- Cheng-Ann Chuang
+- Cheng-An Chuang
 - Yu-Shen Liu
 - Chien-Chao Tseng
 # author_notes:
