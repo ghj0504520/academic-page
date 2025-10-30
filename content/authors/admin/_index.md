@@ -1,12 +1,12 @@
 ---
 # Display name
-title: YANWEI CHEN (YAN)
+title: YAN-WEI CHEN (YAN)
 
 # Name pronunciation (optional)
 name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: YANWEI
+first_name: YAN-WEI
 last_name: CHEN
 
 # Pronouns (optional)
