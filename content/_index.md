@@ -72,6 +72,17 @@ sections:
         exclude_featured: false
     design:
       view: citation
+  - block: collection
+    id: others
+    content:
+      title: Patent & Others
+      text: ''
+      filters:
+        folders:
+          - conference
+        exclude_featured: false
+    design:
+      view: citation
   #- block: collection
   #  id: talks
   #  content:
