@@ -79,7 +79,7 @@ sections:
       text: ''
       filters:
         folders:
-          - conference
+          - others
         exclude_featured: false
     design:
       view: citation
