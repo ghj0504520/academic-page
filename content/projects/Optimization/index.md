@@ -14,9 +14,9 @@ tags:
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.-->
 Survey and investigate resource management problems with optimization or game theory or RL analysis for networking, UAV, or other topics.
 
-[CNN Inference Workload]({{< relref "/publications/HYC24" >}})
+[CNN Inference Workload]({{< relref "/conference/HYC24" >}})
 
-[UAV Charging]({{< relref "/publications/HYC25" >}})
+[UAV Charging]({{< relref "/conference/HYC25" >}})
 
-[SFC Deployment with Sustainability]({{< relref "/publications/YCY25" >}})
+[SFC Deployment with Sustainability]({{< relref "/conference/YCY25" >}})
 <!--more-->
