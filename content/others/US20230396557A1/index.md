@@ -61,6 +61,8 @@ links:
   #  url: ""
   #- type: video
   #  url: ""
+  - type: url
+    url: https://patents.google.com/patent/US20230396557A1/en
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
