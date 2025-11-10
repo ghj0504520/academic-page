@@ -64,7 +64,7 @@ sections:
   - block: collection
     id: proceeding
     content:
-      title: Conference
+      title: Conferences
       text: ''
       filters:
         folders:
@@ -75,7 +75,7 @@ sections:
   - block: collection
     id: others
     content:
-      title: Patent & Others
+      title: Patents & Others
       text: ''
       filters:
         folders:
