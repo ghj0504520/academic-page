@@ -41,9 +41,9 @@ tags:
 featured: false
 
 # Standard identifiers for auto-linking
-hugoblox:
-  ids:
-    url: https://patents.google.com/patent/TWI766558B/en?oq=I766558
+#hugoblox:
+#  ids:
+#    url: https://patents.google.com/patent/TWI766558B/en?oq=I766558
 
 # Custom links
 links:
