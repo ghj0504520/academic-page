@@ -1,5 +1,5 @@
 ---
-title: Patent & Others
+title: Patents & Others
 cms_exclude: true
 
 # View.
