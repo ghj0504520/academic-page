@@ -25,8 +25,8 @@ publishDate: '2022-06-01T00:00:00Z'
 publication_types: ['patent']
 
 # Publication name and optional abbreviated publication name.
-publication: "Taiwan Patent Number I 766558"
-publication_short: "TW Patent No. I 766558"
+publication: "Taiwan Patent Number TW I 766558 B"
+publication_short: "TW Patent No. TW I 766558 B"
 
 abstract: The invention provides a bandwidth management system with two classes of priority, i.e. in a two-class bandwidth management system with low-order priority data flow isolation in the present invention, when the data flow slice transfer volume is lower than the minimum guaranteed bandwidth, the packet will be queued and transmission with a shared high priority.
 
@@ -57,8 +57,8 @@ links:
   #  url: ""
   #- type: source
   #  url: ""
-  #- type: video
-  #  url: ""
+  - type: url
+    url: https://patents.google.com/patent/TWI766558B/en?oq=I766558
 
 # Featured image
 # To use, add an image named `featured.jpg/png` to your page's folder.
