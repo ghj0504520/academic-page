@@ -1,5 +1,5 @@
 ---
-title: 'A BANDWIDTH MANAGEMENT SYSTEM WITH TWO-LEVEL PRIORITY'
+title: 'A bandwidth management system with two-level priority'
 
 # Authors
 # If you created a profile for a user (e.g. the default `admin` user), write the username (folder name) here
@@ -42,8 +42,8 @@ featured: false
 
 # Standard identifiers for auto-linking
 #hugoblox:
-#  ids:
-#    doi: 10.1109/TNSM.2022.3159232
+  ids:
+    url: https://patents.google.com/patent/TWI766558B/en?oq=I766558
 
 # Custom links
 links:
