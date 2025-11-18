@@ -112,7 +112,7 @@ work:
     date_end: 2022-09-30
     summary: |2-
       Survey and implement security mechanisms in the core network.
-  - position: Military Service at TPE Airport✈️
+  - position: Military Service at TPE Airport✈️✈️✈️
     company_name: Aviation Police Bureau
     # company_url: 'https://openai.com/'
     # company_logo: ''
@@ -179,6 +179,10 @@ skills:
         description: ''
         percent: 90
         icon: paper-airplane
+      - name: Learning languages (Japanese/Korean)
+        description: ''
+        percent: 90
+        icon: book-open
       - name: Traveling
         description: ''
         percent: 70
@@ -192,11 +196,11 @@ languages:
   - name: Chinese
     percent: 100
   - name: English
-    percent: 90
+    percent: 85
   - name: Japanese
-    percent: 70
+    percent: 65
   - name: Korean
-    percent: 40
+    percent: 30
 
 # Awards.
 #   Add/remove as many awards below as you like.
@@ -216,7 +220,7 @@ awards:
     #awarder: APNOMS
     icon: hero/flag
     summary: |
-      Acceptance✈️✈️✈️
+      Acceptance of Aviation Management ✈️✈️✈️
   - title: JLPT
     #url: https://www.ieice.org/~icm/apnoms/2019/
     date: '2021-12-30'
@@ -238,7 +242,7 @@ awards:
     #awarder: APNOMS
     icon: hero/flag
     summary: |
-      🚑
+      🚑🚑🚑
   - title: Student Best Paper Award
     url: https://www.ieice.org/~icm/apnoms/2019/
     date: '2019-09-18'
