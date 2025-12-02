@@ -10,6 +10,6 @@ tags:
   - Networking
 ---
 
-Assist in leading research focusing on NTN routing optimization issues for 6G.
+Assist in leading research on NTN routing optimization issues for 6G.
 
 <!--more-->
