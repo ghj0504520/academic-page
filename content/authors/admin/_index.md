@@ -119,7 +119,7 @@ work:
     date_start: 2020-12-21
     date_end: 2021-06-21
     summary: |
-      Servicing in the Airport and sparking a strong interest in transportation.
+      Service in the Airport sparked a strong interest in transportation.
   - position: Intern Software Engineer
     company_name: ONF @CA
     # company_url: 'https://ai.meta.com/'
