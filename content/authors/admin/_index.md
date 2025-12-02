@@ -273,7 +273,7 @@ My research interests are UAV/UTM, intelligent transportation, RL/optimization/g
 I am also interested in learning Japanese and Korean.
 
 我是陳彥瑋,大學跟研究所讀的是資訊工程,台南人,目前在新竹唸Phd,研究興趣是無人機、智慧交通運輸、強化學習/最佳化和賽局理論、資源管理及網路。
-因為對民航的興趣，開始我接觸民航及交通運輸相關領域，並參加過2022民航特考獲錄取。
+因為對民航的興趣，開啟我接觸民航及交通運輸相關領域，並參加過2022民航特考獲錄取。
 也因為資工的背景，促使我從而轉往研究無人機(UAV)及無人機流量管理(UTM)、智慧交通運輸,以及強化學習/最佳化及賽局。
 我的興趣之一是學習日語及韓語。
 
