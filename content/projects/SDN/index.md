@@ -11,7 +11,7 @@ tags:
 ---
 <!--![screen reader text](icon.png "caption")
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.-->
-Survey, and implement SDN-related contents, including OpenFlow, P4, and ONOS.
+Survey, and implement SDN-related contents, including OpenFlow, P4, and ONOS. Focusing on quality of service.
 
 [P4-Enabled Bandwidth Management]({{< relref "/conference/CYW+19" >}})
 
