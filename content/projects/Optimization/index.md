@@ -12,7 +12,7 @@ tags:
 ---
 <!--![screen reader text](icon.png "caption")
 Flexible and powerful data analysis / manipulation library for Python, providing labeled data structures.-->
-Survey and investigate resource management problems with optimization or game theory or RL analysis for networking, UAV, or other topics.
+Survey and investigate resource management problems with optimization, game theory, or RL analysis for networking, UAV, or other topics.
 
 [CNN Inference Workload]({{< relref "/conference/HYC24" >}})
 
