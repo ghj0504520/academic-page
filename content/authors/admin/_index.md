@@ -76,7 +76,7 @@ education:
     
       Thesis: P4-TINS: P4-driven Traffic Isolation for Network Slicing with Flow-based Bandwidth Guarantee and Management (Supervised by Prof. Chien-Chao Tseng, and Co-Supervised by Prof. Chi-Yu Li in CS)
     
-      Specialized in SDN, P4, and quality of service. Including management of P4 Switches and servers with several P4 scenarios. Also, ONOS Application Usage: OpenFlow SDN-IP, OpenFlow Virtual-Router, OpenFlow SegmentRouting, ONOS Basic.p4, ONOS Fabric.p4, and P4 SegmentRouting.
+      Specialized in SDN, P4, and quality of service. Including management of P4 switches and servers with several P4 scenarios. Also, ONOS Application Usage: OpenFlow SDN-IP, OpenFlow Virtual-Router, OpenFlow SegmentRouting, ONOS Basic.p4, ONOS Fabric.p4, and P4 SegmentRouting.
   - area: B.S.  Computer Science and Engineering
     institution: National Sun Yat-sen University (NSYSU) @TW
     date_start: 2014-09-01
