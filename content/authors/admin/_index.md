@@ -76,7 +76,7 @@ education:
     
       Thesis: P4-TINS: P4-driven Traffic Isolation for Network Slicing with Flow-based Bandwidth Guarantee and Management (Supervised by Prof. Chien-Chao Tseng, and Co-Supervised by Prof. Chi-Yu Li in CS)
     
-      Specialized in SDN, P4, and quality of service. Managed P4 Switches and Servers with several P4 scenarios. ONOS Application Usage: OpenFlow SDN-IP, OpenFlow Virtual-Router, OpenFlow SegmentRouting, ONOS Basic.p4, ONOS Fabric.p4, P4 SegmentRouting.
+      Specialized in SDN, P4, and quality of service. Including management of P4 Switches and servers with several P4 scenarios. Also, ONOS Application Usage: OpenFlow SDN-IP, OpenFlow Virtual-Router, OpenFlow SegmentRouting, ONOS Basic.p4, ONOS Fabric.p4, and P4 SegmentRouting.
   - area: B.S.  Computer Science and Engineering
     institution: National Sun Yat-sen University (NSYSU) @TW
     date_start: 2014-09-01
@@ -84,7 +84,7 @@ education:
     summary: |
       GPA: 4.17/4.3
 
-      Interested in network management.
+      Interested in network management, traditional L2/L3 networking, VLAN, and switch management.
 
 work:
   - position: Special Research Student
@@ -103,7 +103,7 @@ work:
     date_start: 2021-10-01
     date_end: 2022-07-20
     summary: |2-
-      Integrate the new function into the 5G core network and improve user plane performance.
+      Integrate the new function (DHCP/AAA) into the 5G core network and improve user plane performance.
   - position: Project Research Assistant
     company_name: NYCU @TW
     # company_url: 'https://ai.meta.com/'
@@ -111,15 +111,15 @@ work:
     date_start: 2021-07-01
     date_end: 2022-09-30
     summary: |2-
-      Survey and implement security mechanisms in the core network.
+      Survey and implement security mechanisms in the 5G core network.
   - position: Military Service at TPE Airport✈️✈️✈️
-    company_name: Aviation Police Bureau
+    company_name: Aviation Police Bureau @TW
     # company_url: 'https://openai.com/'
     # company_logo: ''
     date_start: 2020-12-21
     date_end: 2021-06-21
     summary: |
-      Service in the Airport sparked a strong interest in transportation.
+      Servicing in the Airport and sparking a strong interest in transportation.
   - position: Intern Software Engineer
     company_name: ONF @CA
     # company_url: 'https://ai.meta.com/'
@@ -130,7 +130,7 @@ work:
       ONF NCTU P4 Brigade Day,
       learn about ONOS with PI subsystem and P4 Runtime driver.
   - position: Director (2017) and Network Manager
-    company_name: Campus Dorm-net Promotion Association (CDPA), NSYSU
+    company_name: Campus Dorm-net Promotion Association (CDPA), NSYSU @TW
     # company_url: 'https://openai.com/'
     # company_logo: ''
     date_start: 2016-02-01
@@ -198,7 +198,7 @@ languages:
   - name: English
     percent: 85
   - name: Japanese
-    percent: 65
+    percent: 70
   - name: Korean
     percent: 30
 
