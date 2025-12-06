@@ -159,7 +159,7 @@ skills:
         percent: 80
         icon: variable
       - name: SDN/Mobile networking
-        description: 'Including Mininet, ONOS (JAVA), OpenFlow, P4, UPF, SMF, PFCP, GTP-u'
+        description: 'Including Mininet, ONOS (JAVA), OpenFlow, P4, 5GC, UPF, SMF, PFCP, GTP-u'
         percent: 90
         icon: globe-alt
       - name: Networking
