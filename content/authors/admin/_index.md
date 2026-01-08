@@ -150,7 +150,7 @@ skills:
         description: 'From single agent to MARL/constrained/imitation and python/pytorch usage'
         percent: 75
         icon: adjustments-horizontal
-      - name: ITS
+      - name: Intelligent Transportation System
         description: 'Rolling horizon related issues in intelligent transportation system'
         percent: 75
         icon: truck
