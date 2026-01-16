@@ -220,7 +220,8 @@ awards:
     #awarder: APNOMS
     icon: hero/flag
     summary: |
-      Acceptance of Aviation Management ✈️✈️✈️
+      三等考試航務管理錄取
+      Acceptance of Grade Three Special Examination for Aviation Management ✈️✈️✈️
   - title: JLPT
     #url: https://www.ieice.org/~icm/apnoms/2019/
     date: '2021-12-30'
