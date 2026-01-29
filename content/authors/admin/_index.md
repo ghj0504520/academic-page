@@ -89,8 +89,8 @@ education:
 work:
   - position: 先端科学技術研究科 情報科学領域 Special Research Student
     company_name: 奈良先端科学技術大学院大学 (NAIST) @Nara, JP
-    company_url: https://inet-lab.naist.jp/
-    company_logo: iNET-LAB
+    # company_url: 'https://inet-lab.naist.jp/'
+    # company_logo: 'iNET-LAB'
     date_start: 2025-10-01
     date_end: 2025-12-31
     summary: |2-
