@@ -94,7 +94,7 @@ work:
     date_start: 2025-10-01
     date_end: 2025-12-31
     summary: |2-
-      NYCU MOU visiting, learn about traffic data analysis, and investigate RL for adjusting hyperparameters of the ITS prediction transformer model in iNET-LAB (https://inet-lab.naist.jp/ ), led by Dr. Kazutoshi Fujikawa.
+      NYCU MOU visiting, learn about traffic data analysis, and investigate RL for adjusting hyperparameters of the ITS prediction transformer model in iNET-LAB ("https://inet-lab.naist.jp/"), led by Dr. Kazutoshi Fujikawa.
   - position: 5G Core Network Software Engineer
     company_name: Ataya @TW
     icon: adjustments-horizontal
