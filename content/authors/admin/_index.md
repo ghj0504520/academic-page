@@ -87,14 +87,14 @@ education:
       Interested in network management, traditional L2/L3 networking, VLAN, and switch management.
 
 work:
-  - position: Special Research Student
-    company_name: NAIST @JP
-    # company_url: 'https://ai.meta.com/'
+  - position: 先端科学技術研究科 情報科学領域 Special Research Student
+    company_name: 奈良先端科学技術大学院大学 (NAIST) @Nara, JP
+    company_url: 'https://inet-lab.naist.jp/'
     # company_logo: ''
     date_start: 2025-10-01
     date_end: 2025-12-31
     summary: |2-
-      NYCU MOU visiting, learn about traffic data analysis, and investigate RL for adjusting the hyperparameters.
+      NYCU MOU visiting, learn about traffic data analysis, and investigate RL for adjusting hyyperparameters of ITS prediction transformer model in iNET-LAB led by Dr. Kazutoshi Fujikawa.
   - position: 5G Core Network Software Engineer
     company_name: Ataya @TW
     icon: adjustments-horizontal
@@ -121,7 +121,7 @@ work:
     summary: |
       Service in the Airport sparked a strong interest in transportation.
   - position: Intern Software Engineer
-    company_name: ONF @CA
+    company_name: Open Networking Foundation (ONF) @CA
     # company_url: 'https://ai.meta.com/'
     # company_logo: ''
     date_start: 2018-10-15
