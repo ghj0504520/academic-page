@@ -89,12 +89,12 @@ education:
 work:
   - position: 先端科学技術研究科 情報科学領域 Special Research Student
     company_name: 奈良先端科学技術大学院大学 (NAIST) @Nara, JP
-    company_url: 'https://inet-lab.naist.jp/'
-    company_logo: 'iNET-LAB'
+    # company_url: 'https://inet-lab.naist.jp/'
+    # company_logo: 'iNET-LAB'
     date_start: 2025-10-01
     date_end: 2025-12-31
     summary: |2-
-      NYCU MOU visiting, learn about traffic data analysis, and investigate RL for adjusting hyyperparameters of ITS prediction transformer model in iNET-LAB led by Dr. Kazutoshi Fujikawa.
+      NYCU MOU visiting, learn about traffic data analysis, and investigate RL for adjusting hyperparameters of the ITS prediction transformer model in iNET-LAB (https://inet-lab.naist.jp/), led by Dr. Kazutoshi Fujikawa.
   - position: 5G Core Network Software Engineer
     company_name: Ataya @TW
     icon: adjustments-horizontal
