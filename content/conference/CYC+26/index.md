@@ -26,9 +26,8 @@ abstract: Collaborative edge-cloud computing is an emerging paradigm that balanc
 summary: Our study aims to jointly optimize the carbon footprint and the balance of edge servers’ workloads, which is challenged by dynamic workload arrivals to edge servers and time-and-location-varying carbon intensity (CI). We propose an online algorithm Lyapunov optimization framework to configure offloading workload and transmission power for mixed vertical and horizontal offloading.
 
 tags:
-- SFC
-- Sustainability
 - MEC
+- Sustainability
 - Resource Management
 - Optimization
 
