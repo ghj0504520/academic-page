@@ -33,7 +33,7 @@ featured: false
 
 hugoblox:
   ids: 
-    doi: ""
+    doi: 10.1109/GLOBECOM59602.2025.11432042
 
 links:
 - type: pdf
