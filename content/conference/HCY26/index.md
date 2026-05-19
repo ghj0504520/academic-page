@@ -1,7 +1,7 @@
 ---
 title: "Mobility-Aware Semi-Synchronous Hierarchical Federated Learning for Internet of Vehicles"
 authors:
-- Huang, Zih-Heng
+- Zih-Heng Huang
 - admin
 - Li-Hsing Yen
 date: "2026-09-15T00:00:00Z"
