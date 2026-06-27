@@ -35,7 +35,7 @@ featured: false
 
 hugoblox:
   ids: 
-    doi: ""
+    doi: 10.1109/WCNC65185.2026.11555269
 
 links:
 - type: pdf
