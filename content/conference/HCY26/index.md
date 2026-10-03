@@ -43,7 +43,7 @@ links:
 # - type: code
 #  url: https://github.com/HugoBlox/hugo-blox-builder
 - type: slides
-  url: ""
+  url: "https://drive.google.com/file/d/1WKrZ688435sq6l7DcCdswzoJ-chnhy10/view?usp=drive_link"
 # - type: dataset
 #  url: "#"
 # - type: poster

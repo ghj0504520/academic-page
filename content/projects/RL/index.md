@@ -1,5 +1,5 @@
 ---
-title: Reinforcement learning (RL)
+title: Reinforcement Learning (RL)
 date: 2024-10-01
 <!--links:
   - type: site
