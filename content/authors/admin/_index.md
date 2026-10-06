@@ -270,9 +270,9 @@ awards:
 ---
 
 I'm Yan-Wei Chen, and you can also call me "Yan". I come from Tainan, Taiwan.
-I am a Ph.d. candidate majoring in CS at NYCU, Taiwan.
-I hold a B.S. degree in CS from NSYSU, Taiwan, and a M.S. degree in CS from NCTU, Taiwan.
-My research interests are UAV/UTM, intelligent transportation, RL/optimization/gaming theory, resource management, and networking.
+I am a Ph.D. candidate majoring in CS at NYCU, Taiwan.
+I hold a B.S. in CS from NSYSU, Taiwan, and an M.S. in CS from NCTU, Taiwan.
+My research interests are UAV/UTM, intelligent transportation, RL/optimization/gaming theory for resource management and networking.
 I am also interested in learning Japanese and Korean.
 
 我是陳彥瑋,大學跟研究所讀的是資訊工程,台南人,目前在新竹唸Phd,研究興趣是無人機、智慧交通運輸、強化學習/最佳化和賽局理論、資源管理及網路。
